@@ -1,0 +1,12267 @@
+[
+  {
+    "name": "Copper Coin",
+    "id": 0,
+    "variants": 1,
+    "sizes": [
+      8,
+      9
+    ],
+    "row": 0,
+    "col": 0,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Wood",
+    "id": 1,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 0,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Apple",
+    "id": 2,
+    "variants": 3,
+    "sizes": [
+      7,
+      9,
+      7,
+      9,
+      7,
+      9
+    ],
+    "row": 0,
+    "col": 2,
+    "value": 5,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "A tasty, crunchy, apple."
+  },
+  {
+    "name": "Small Hamburger",
+    "id": 4,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 0,
+    "col": 4,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "A Tasty Hamburger"
+  },
+  {
+    "name": "Cross Jewel",
+    "id": 5,
+    "variants": 1,
+    "sizes": [
+      11,
+      13
+    ],
+    "row": 0,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Strange Thing",
+    "id": 6,
+    "variants": 1,
+    "sizes": [
+      6,
+      10
+    ],
+    "row": 0,
+    "col": 6,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Red Moon Amulet",
+    "id": 7,
+    "variants": 1,
+    "sizes": [
+      11,
+      10
+    ],
+    "row": 0,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Debris",
+    "id": 8,
+    "variants": 1,
+    "sizes": [
+      8,
+      5
+    ],
+    "row": 0,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Sword",
+    "id": 9,
+    "variants": 3,
+    "sizes": [
+      6,
+      16,
+      6,
+      16,
+      6,
+      16
+    ],
+    "row": 0,
+    "col": 9,
+    "value": 0,
+    "uses": 60,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Tuffy Collar",
+    "id": 11,
+    "variants": 1,
+    "sizes": [
+      16,
+      12
+    ],
+    "row": 0,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Small Copper Ring",
+    "id": 12,
+    "variants": 6,
+    "sizes": [
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9
+    ],
+    "row": 0,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pure Copper Ring",
+    "id": 13,
+    "variants": 6,
+    "sizes": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "row": 0,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Silver Necklace",
+    "id": 18,
+    "variants": 6,
+    "sizes": [
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14
+    ],
+    "row": 0,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Showcase",
+    "id": 19,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 0,
+    "col": 19,
+    "value": 40,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "Showcase your treasures here"
+  },
+  {
+    "name": "Forge",
+    "id": 20,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 0,
+    "col": 20,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Craftbook",
+    "id": 21,
+    "variants": 1,
+    "sizes": [
+      11,
+      12
+    ],
+    "row": 0,
+    "col": 21,
+    "value": 30,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Craft Note",
+    "id": 22,
+    "variants": 1,
+    "sizes": [
+      10,
+      12
+    ],
+    "row": 0,
+    "col": 22,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Egg",
+    "id": 23,
+    "variants": 1,
+    "sizes": [
+      5,
+      7
+    ],
+    "row": 0,
+    "col": 23,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Mailbox",
+    "id": 24,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 0,
+    "col": 24,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Leaves",
+    "id": 25,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 0,
+    "col": 25,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "SandOld",
+    "id": 26,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 0,
+    "col": 26,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Glass",
+    "id": 27,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 0,
+    "col": 27,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Wood Pickaxe",
+    "id": 29,
+    "variants": 1,
+    "sizes": [
+      9,
+      10
+    ],
+    "row": 0,
+    "col": 29,
+    "value": 10,
+    "uses": 16,
+    "range": 1,
+    "power": 1.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Shovel",
+    "id": 30,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 0,
+    "col": 30,
+    "value": 10,
+    "uses": 16,
+    "range": 1,
+    "power": 1.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Hammer",
+    "id": 31,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 0,
+    "col": 31,
+    "value": 10,
+    "uses": 16,
+    "range": 1,
+    "power": 1.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Coin",
+    "id": 32,
+    "variants": 1,
+    "sizes": [
+      8,
+      9
+    ],
+    "row": 1,
+    "col": 0,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Indie Hat",
+    "id": 35,
+    "variants": 1,
+    "sizes": [
+      16,
+      8
+    ],
+    "row": 1,
+    "col": 3,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Big Hamburger",
+    "id": 36,
+    "variants": 1,
+    "sizes": [
+      8,
+      10
+    ],
+    "row": 1,
+    "col": 4,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "A big hamburger!"
+  },
+  {
+    "name": "Gold Topaz Cross",
+    "id": 37,
+    "variants": 1,
+    "sizes": [
+      11,
+      13
+    ],
+    "row": 1,
+    "col": 5,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Female Alien Thing",
+    "id": 38,
+    "variants": 1,
+    "sizes": [
+      6,
+      10
+    ],
+    "row": 1,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Green Moon Amulet",
+    "id": 39,
+    "variants": 1,
+    "sizes": [
+      11,
+      10
+    ],
+    "row": 1,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Red Shoe",
+    "id": 40,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 1,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "Red Shoe"
+  },
+  {
+    "name": "Silver Fork",
+    "id": 43,
+    "variants": 1,
+    "sizes": [
+      5,
+      14
+    ],
+    "row": 1,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Raw Leather",
+    "id": 51,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 1,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "Leather"
+  },
+  {
+    "name": "Loom",
+    "id": 52,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 1,
+    "col": 20,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Blueprint",
+    "id": 53,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 1,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Pot",
+    "id": 56,
+    "variants": 1,
+    "sizes": [
+      8,
+      13
+    ],
+    "row": 1,
+    "col": 24,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Dirt Compact",
+    "id": 57,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 1,
+    "col": 25,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Cactus",
+    "id": 58,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 1,
+    "col": 26,
+    "value": 244,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Stone Compact",
+    "id": 59,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 1,
+    "col": 27,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Compass",
+    "id": 60,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 1,
+    "col": 28,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Stone Pickaxe",
+    "id": 61,
+    "variants": 1,
+    "sizes": [
+      9,
+      10
+    ],
+    "row": 1,
+    "col": 29,
+    "value": 10,
+    "uses": 64,
+    "range": 1,
+    "power": 1.2,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Stone Shovel",
+    "id": 62,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 1,
+    "col": 30,
+    "value": 10,
+    "uses": 64,
+    "range": 1,
+    "power": 1.2,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Stone Hammer",
+    "id": 63,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 1,
+    "col": 31,
+    "value": 10,
+    "uses": 64,
+    "range": 1,
+    "power": 1.2,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Coin",
+    "id": 64,
+    "variants": 1,
+    "sizes": [
+      8,
+      9
+    ],
+    "row": 2,
+    "col": 0,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Fried Potatoes",
+    "id": 68,
+    "variants": 1,
+    "sizes": [
+      9,
+      10
+    ],
+    "row": 2,
+    "col": 4,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Ametyst Cross",
+    "id": 69,
+    "variants": 1,
+    "sizes": [
+      11,
+      13
+    ],
+    "row": 2,
+    "col": 5,
+    "value": 200,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Clock",
+    "id": 70,
+    "variants": 1,
+    "sizes": [
+      8,
+      9
+    ],
+    "row": 2,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Falcon",
+    "id": 71,
+    "variants": 1,
+    "sizes": [
+      9,
+      14
+    ],
+    "row": 2,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Used Red Shoe",
+    "id": 72,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 2,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Shock Absorber",
+    "id": 75,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 2,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pig Meat",
+    "id": 83,
+    "variants": 1,
+    "sizes": [
+      12,
+      7
+    ],
+    "row": 2,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "Raw pig meat"
+  },
+  {
+    "name": "Wool Pieceold",
+    "id": 84,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 2,
+    "col": 20,
+    "value": 30,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Wood Door",
+    "id": 85,
+    "variants": 1,
+    "sizes": [
+      7,
+      13
+    ],
+    "row": 2,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Red Yarn",
+    "id": 86,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 2,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Feather",
+    "id": 87,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 2,
+    "col": 23,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Stone",
+    "id": 88,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 2,
+    "col": 24,
+    "value": 5,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Column",
+    "id": 89,
+    "variants": 1,
+    "sizes": [
+      8,
+      12
+    ],
+    "row": 2,
+    "col": 25,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Chest",
+    "id": 91,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 2,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "This is the basic craftable container chest."
+  },
+  {
+    "name": "Copper Pickaxe",
+    "id": 93,
+    "variants": 1,
+    "sizes": [
+      9,
+      10
+    ],
+    "row": 2,
+    "col": 29,
+    "value": 10,
+    "uses": 32,
+    "range": 2,
+    "power": 1.4,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Copper Shovel",
+    "id": 94,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 2,
+    "col": 30,
+    "value": 255,
+    "uses": 32,
+    "range": 2,
+    "power": 1.4,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Copper Hammer",
+    "id": 95,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 2,
+    "col": 31,
+    "value": 255,
+    "uses": 32,
+    "range": 2,
+    "power": 1.4,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Lump",
+    "id": 96,
+    "variants": 3,
+    "sizes": [
+      7,
+      5,
+      6,
+      6,
+      6,
+      5
+    ],
+    "row": 3,
+    "col": 0,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Nail",
+    "id": 97,
+    "variants": 2,
+    "sizes": [
+      10,
+      4,
+      4,
+      9
+    ],
+    "row": 3,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Narrow Goblet",
+    "id": 98,
+    "variants": 4,
+    "sizes": [
+      7,
+      13,
+      7,
+      13,
+      7,
+      13,
+      7,
+      13
+    ],
+    "row": 3,
+    "col": 2,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Crown",
+    "id": 99,
+    "variants": 5,
+    "sizes": [
+      9,
+      6,
+      9,
+      6,
+      9,
+      6,
+      9,
+      6,
+      9,
+      6
+    ],
+    "row": 3,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Roast Chicken Leg",
+    "id": 100,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 3,
+    "col": 4,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Gem Cross",
+    "id": 101,
+    "variants": 1,
+    "sizes": [
+      11,
+      13
+    ],
+    "row": 3,
+    "col": 5,
+    "value": 60,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": " "
+  },
+  {
+    "name": "Gold Hand Of Ametyst",
+    "id": 103,
+    "variants": 1,
+    "sizes": [
+      7,
+      15
+    ],
+    "row": 3,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Lollipop",
+    "id": 104,
+    "variants": 3,
+    "sizes": [
+      5,
+      12,
+      5,
+      12,
+      5,
+      12
+    ],
+    "row": 3,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Fruit Mixer",
+    "id": 107,
+    "variants": 1,
+    "sizes": [
+      9,
+      16
+    ],
+    "row": 3,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Roasted Pig Meat",
+    "id": 115,
+    "variants": 1,
+    "sizes": [
+      12,
+      7
+    ],
+    "row": 3,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "Delicious pig meat"
+  },
+  {
+    "name": "Raw Wool",
+    "id": 116,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 3,
+    "col": 20,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Block",
+    "id": 117,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 3,
+    "col": 21,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Pink Yarn",
+    "id": 118,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 3,
+    "col": 22,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cooked Egg",
+    "id": 119,
+    "variants": 1,
+    "sizes": [
+      8,
+      7
+    ],
+    "row": 3,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Chest2",
+    "id": 120,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 3,
+    "col": 24,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "This is the basic craftable container."
+  },
+  {
+    "name": "Wood Planks",
+    "id": 121,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 3,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Wood Planks"
+  },
+  {
+    "name": "Egypt Column",
+    "id": 122,
+    "variants": 1,
+    "sizes": [
+      8,
+      12
+    ],
+    "row": 3,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "A Buildable Egyptian Column"
+  },
+  {
+    "name": "Wood Window",
+    "id": 123,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 3,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A wood window"
+  },
+  {
+    "name": "Mithril Pickaxe",
+    "id": 124,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 3,
+    "col": 28,
+    "value": 10,
+    "uses": 512,
+    "range": 3,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Pickaxe",
+    "id": 125,
+    "variants": 1,
+    "sizes": [
+      9,
+      10
+    ],
+    "row": 3,
+    "col": 29,
+    "value": 10,
+    "uses": 256,
+    "range": 3,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Shovel",
+    "id": 126,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 3,
+    "col": 30,
+    "value": 255,
+    "uses": 128,
+    "range": 2,
+    "power": 1.6,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Hammer",
+    "id": 127,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 3,
+    "col": 31,
+    "value": 255,
+    "uses": 128,
+    "range": 2,
+    "power": 1.6,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Fiorentina Beef",
+    "id": 132,
+    "variants": 1,
+    "sizes": [
+      10,
+      9
+    ],
+    "row": 4,
+    "col": 4,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Amethyst Cross",
+    "id": 133,
+    "variants": 1,
+    "sizes": [
+      11,
+      13
+    ],
+    "row": 4,
+    "col": 5,
+    "value": 150,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pixel Art Alien",
+    "id": 134,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 4,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Topaz Hand Of Gold",
+    "id": 135,
+    "variants": 1,
+    "sizes": [
+      7,
+      14
+    ],
+    "row": 4,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cinema Ticket",
+    "id": 139,
+    "variants": 2,
+    "sizes": [
+      10,
+      7,
+      10,
+      7
+    ],
+    "row": 4,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Widget",
+    "id": 148,
+    "variants": 1,
+    "sizes": [
+      12,
+      11
+    ],
+    "row": 4,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Silver Block",
+    "id": 149,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 4,
+    "col": 21,
+    "value": 30,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Blue Yarn",
+    "id": 150,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 4,
+    "col": 22,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Stone Bridge",
+    "id": 152,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 4,
+    "col": 24,
+    "value": 5,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Stone Bricks",
+    "id": 153,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 4,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Stone Bricks"
+  },
+  {
+    "name": "Sand Bricks",
+    "id": 154,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 4,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Sand Bricks"
+  },
+  {
+    "name": "Dirt",
+    "id": 155,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 4,
+    "col": 27,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A Dirt Block. Can be compacted"
+  },
+  {
+    "name": "Iron Pickaxe",
+    "id": 156,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 4,
+    "col": 28,
+    "value": 10,
+    "uses": 255,
+    "range": 2,
+    "power": 1.6,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": "A good iron pickaxe"
+  },
+  {
+    "name": "Diamond Pickaxe",
+    "id": 157,
+    "variants": 1,
+    "sizes": [
+      9,
+      10
+    ],
+    "row": 4,
+    "col": 29,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Shovel",
+    "id": 158,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 4,
+    "col": 30,
+    "value": 10,
+    "uses": 256,
+    "range": 3,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Hammer",
+    "id": 159,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 4,
+    "col": 31,
+    "value": 10,
+    "uses": 256,
+    "range": 2,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Ingot",
+    "id": 161,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 5,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pink Donut",
+    "id": 164,
+    "variants": 1,
+    "sizes": [
+      8,
+      6
+    ],
+    "row": 5,
+    "col": 4,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Topaz Cross",
+    "id": 165,
+    "variants": 1,
+    "sizes": [
+      11,
+      13
+    ],
+    "row": 5,
+    "col": 5,
+    "value": 130,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Portable Vintage Console",
+    "id": 166,
+    "variants": 1,
+    "sizes": [
+      8,
+      12
+    ],
+    "row": 5,
+    "col": 6,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Sapphire Hand Of Gold",
+    "id": 167,
+    "variants": 1,
+    "sizes": [
+      7,
+      14
+    ],
+    "row": 5,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Oval Necklace",
+    "id": 169,
+    "variants": 3,
+    "sizes": [
+      7,
+      12,
+      7,
+      12,
+      7,
+      12
+    ],
+    "row": 5,
+    "col": 9,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Silver Amulet",
+    "id": 176,
+    "variants": 6,
+    "sizes": [
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14
+    ],
+    "row": 5,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Big Silver Ring",
+    "id": 177,
+    "variants": 6,
+    "sizes": [
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10
+    ],
+    "row": 5,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bookshelf",
+    "id": 179,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 5,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Copper Block",
+    "id": 181,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 5,
+    "col": 21,
+    "value": 20,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Cyan Yarn",
+    "id": 182,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 5,
+    "col": 22,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Maya Bridge",
+    "id": 184,
+    "variants": 1,
+    "sizes": [
+      9,
+      6
+    ],
+    "row": 5,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "Maya Bridge"
+  },
+  {
+    "name": "Half Wood Planks",
+    "id": 185,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 5,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Wood Planks, can be used to build a pavement."
+  },
+  {
+    "name": "Glass Window",
+    "id": 186,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 5,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A glass window"
+  },
+  {
+    "name": "Topaz Block",
+    "id": 187,
+    "variants": 1,
+    "sizes": [
+      14,
+      14
+    ],
+    "row": 5,
+    "col": 27,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A precious topaz block"
+  },
+  {
+    "name": "Amethyst Block",
+    "id": 188,
+    "variants": 1,
+    "sizes": [
+      14,
+      14
+    ],
+    "row": 5,
+    "col": 28,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A precious amethyst block"
+  },
+  {
+    "name": "Wood Ladder",
+    "id": 189,
+    "variants": 1,
+    "sizes": [
+      8,
+      13
+    ],
+    "row": 5,
+    "col": 29,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Shovel",
+    "id": 190,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 5,
+    "col": 30,
+    "value": 10,
+    "uses": 512,
+    "range": 3,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Hammer",
+    "id": 191,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 5,
+    "col": 31,
+    "value": 10,
+    "uses": 512,
+    "range": 3,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Lump",
+    "id": 192,
+    "variants": 3,
+    "sizes": [
+      7,
+      5,
+      5,
+      6,
+      6,
+      5
+    ],
+    "row": 6,
+    "col": 0,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Silver Ingot",
+    "id": 193,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 6,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "White Donut",
+    "id": 196,
+    "variants": 1,
+    "sizes": [
+      8,
+      6
+    ],
+    "row": 6,
+    "col": 4,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Rubber Duck",
+    "id": 197,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 6,
+    "col": 5,
+    "value": 4,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Toy Mushroom",
+    "id": 198,
+    "variants": 4,
+    "sizes": [
+      9,
+      8,
+      9,
+      8,
+      9,
+      8,
+      9,
+      8
+    ],
+    "row": 6,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Magma Stone Of Gold",
+    "id": 199,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 6,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Blue Lollipop",
+    "id": 200,
+    "variants": 1,
+    "sizes": [
+      5,
+      12
+    ],
+    "row": 6,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Car Wheel",
+    "id": 203,
+    "variants": 1,
+    "sizes": [
+      15,
+      15
+    ],
+    "row": 6,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Small Silver Ring",
+    "id": 204,
+    "variants": 6,
+    "sizes": [
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9
+    ],
+    "row": 6,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pure Silver Ring",
+    "id": 205,
+    "variants": 6,
+    "sizes": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "row": 6,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Necklace",
+    "id": 210,
+    "variants": 6,
+    "sizes": [
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14
+    ],
+    "row": 6,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Leaf",
+    "id": 211,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 6,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Iron Block",
+    "id": 213,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 6,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Green Yarn",
+    "id": 214,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 6,
+    "col": 22,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Papyrus",
+    "id": 215,
+    "variants": 1,
+    "sizes": [
+      12,
+      9
+    ],
+    "row": 6,
+    "col": 23,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Half Stone Bricks",
+    "id": 217,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 6,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Half stone, can be used to build a pavement."
+  },
+  {
+    "name": "Emerald Block",
+    "id": 219,
+    "variants": 1,
+    "sizes": [
+      14,
+      14
+    ],
+    "row": 6,
+    "col": 27,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A precious emerald block"
+  },
+  {
+    "name": "Ruby Block",
+    "id": 220,
+    "variants": 1,
+    "sizes": [
+      14,
+      14
+    ],
+    "row": 6,
+    "col": 28,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A precious ruby block"
+  },
+  {
+    "name": "Diamond Shovel",
+    "id": 222,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 6,
+    "col": 30,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Diamond Hammer",
+    "id": 223,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 6,
+    "col": 31,
+    "value": 10,
+    "uses": 255,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Copper Ingot",
+    "id": 225,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 7,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Fat Goblet",
+    "id": 226,
+    "variants": 2,
+    "sizes": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "row": 7,
+    "col": 2,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pill",
+    "id": 228,
+    "variants": 3,
+    "sizes": [
+      4,
+      10,
+      4,
+      10,
+      4,
+      10
+    ],
+    "row": 7,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Old Bone",
+    "id": 229,
+    "variants": 1,
+    "sizes": [
+      12,
+      7
+    ],
+    "row": 7,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Topaz Gold Amulet",
+    "id": 231,
+    "variants": 1,
+    "sizes": [
+      7,
+      11
+    ],
+    "row": 7,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Candy Cane",
+    "id": 232,
+    "variants": 5,
+    "sizes": [
+      6,
+      10,
+      6,
+      10,
+      6,
+      10,
+      6,
+      10,
+      6,
+      10
+    ],
+    "row": 7,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Wolex",
+    "id": 235,
+    "variants": 1,
+    "sizes": [
+      10,
+      12
+    ],
+    "row": 7,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Blue Leaf",
+    "id": 243,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 7,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Tree Sapling",
+    "id": 244,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 7,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Block",
+    "id": 245,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 7,
+    "col": 21,
+    "value": 60,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Orange Yarn",
+    "id": 246,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 7,
+    "col": 22,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Paper",
+    "id": 247,
+    "variants": 1,
+    "sizes": [
+      10,
+      12
+    ],
+    "row": 7,
+    "col": 23,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Violet Mushroom",
+    "id": 248,
+    "variants": 1,
+    "sizes": [
+      7,
+      8
+    ],
+    "row": 7,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "Eat me"
+  },
+  {
+    "name": "Half Sand Bricks",
+    "id": 249,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 7,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "To be added, insomma"
+  },
+  {
+    "name": "Sapphire Block",
+    "id": 251,
+    "variants": 1,
+    "sizes": [
+      14,
+      14
+    ],
+    "row": 7,
+    "col": 27,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A precious sapphire block"
+  },
+  {
+    "name": "Diamond Block",
+    "id": 252,
+    "variants": 1,
+    "sizes": [
+      14,
+      14
+    ],
+    "row": 7,
+    "col": 28,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A wonderful diamond block!"
+  },
+  {
+    "name": "Wood Bridge",
+    "id": 253,
+    "variants": 1,
+    "sizes": [
+      11,
+      5
+    ],
+    "row": 7,
+    "col": 29,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Monster Pickaxe",
+    "id": 254,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 7,
+    "col": 30,
+    "value": 10,
+    "uses": 100,
+    "range": 10,
+    "power": 50.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Axe",
+    "id": 255,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 7,
+    "col": 31,
+    "value": 10,
+    "uses": 16,
+    "range": 1,
+    "power": 1.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Ingot",
+    "id": 257,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 8,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Derolean Miniature",
+    "id": 259,
+    "variants": 1,
+    "sizes": [
+      16,
+      6
+    ],
+    "row": 8,
+    "col": 3,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A wonderful replica of an old car"
+  },
+  {
+    "name": "Empty Fishbowl",
+    "id": 261,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 8,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Eye Of Amethyst",
+    "id": 263,
+    "variants": 1,
+    "sizes": [
+      7,
+      10
+    ],
+    "row": 8,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Amethyst Gold Plate",
+    "id": 265,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 8,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Soldering Iron",
+    "id": 267,
+    "variants": 1,
+    "sizes": [
+      12,
+      14
+    ],
+    "row": 8,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Book",
+    "id": 275,
+    "variants": 1,
+    "sizes": [
+      11,
+      12
+    ],
+    "row": 8,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Blue Tree Sapling",
+    "id": 276,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 8,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Blue Leaves",
+    "id": 277,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 8,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Yellow Yarn",
+    "id": 278,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 8,
+    "col": 22,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bamboo",
+    "id": 279,
+    "variants": 1,
+    "sizes": [
+      9,
+      14
+    ],
+    "row": 8,
+    "col": 23,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A strong plant, good for many uses."
+  },
+  {
+    "name": "Bamboo Ladder",
+    "id": 281,
+    "variants": 1,
+    "sizes": [
+      8,
+      13
+    ],
+    "row": 8,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "A Bamboo Ladder"
+  },
+  {
+    "name": "White Cloth",
+    "id": 283,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 8,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Clean Wool"
+  },
+  {
+    "name": "Stone Stairs",
+    "id": 284,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 8,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Stone Stairs"
+  },
+  {
+    "name": "Torch",
+    "id": 285,
+    "variants": 1,
+    "sizes": [
+      6,
+      12
+    ],
+    "row": 8,
+    "col": 29,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Shovel",
+    "id": 286,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 8,
+    "col": 30,
+    "value": 10,
+    "uses": 196,
+    "range": 2,
+    "power": 1.8,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": "A Shiny Silver shovel"
+  },
+  {
+    "name": "Stone Axe",
+    "id": 287,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 8,
+    "col": 31,
+    "value": 10,
+    "uses": 32,
+    "range": 1,
+    "power": 1.2,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Copper Lump",
+    "id": 288,
+    "variants": 3,
+    "sizes": [
+      6,
+      5,
+      7,
+      5,
+      6,
+      5
+    ],
+    "row": 9,
+    "col": 0,
+    "value": 6,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Ingot",
+    "id": 289,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 9,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Goblet",
+    "id": 290,
+    "variants": 5,
+    "sizes": [
+      9,
+      13,
+      9,
+      13,
+      9,
+      13,
+      9,
+      13,
+      9,
+      13
+    ],
+    "row": 9,
+    "col": 2,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cake Piece",
+    "id": 291,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 9,
+    "col": 3,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "A soft cake piece."
+  },
+  {
+    "name": "Gold Fish",
+    "id": 293,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 9,
+    "col": 5,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A cute goldfish in a cute bowl.Handle with care"
+  },
+  {
+    "name": "Trident Gold Amulet",
+    "id": 295,
+    "variants": 1,
+    "sizes": [
+      9,
+      12
+    ],
+    "row": 9,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Ruby Gold Plate",
+    "id": 297,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 9,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Desk Lamp",
+    "id": 299,
+    "variants": 1,
+    "sizes": [
+      14,
+      13
+    ],
+    "row": 9,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Green Goo",
+    "id": 307,
+    "variants": 1,
+    "sizes": [
+      6,
+      6
+    ],
+    "row": 9,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Roasted Boar Meat",
+    "id": 308,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 9,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Berry",
+    "id": 309,
+    "variants": 1,
+    "sizes": [
+      6,
+      6
+    ],
+    "row": 9,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "White Yarn",
+    "id": 310,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 9,
+    "col": 22,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Workbench",
+    "id": 311,
+    "variants": 1,
+    "sizes": [
+      12,
+      8
+    ],
+    "row": 9,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Shelf",
+    "id": 312,
+    "variants": 1,
+    "sizes": [
+      12,
+      5
+    ],
+    "row": 9,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "This shelf can be used to expose items."
+  },
+  {
+    "name": "Spinning Wheel",
+    "id": 313,
+    "variants": 1,
+    "sizes": [
+      9,
+      12
+    ],
+    "row": 9,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Red Cloth",
+    "id": 315,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 9,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Wood Planks Stairs",
+    "id": 316,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 9,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Silver Pickaxe",
+    "id": 318,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 9,
+    "col": 30,
+    "value": 10,
+    "uses": 196,
+    "range": 2,
+    "power": 1.8,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": "A Shiny pickaxe"
+  },
+  {
+    "name": "Copper Axe",
+    "id": 319,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 9,
+    "col": 31,
+    "value": 10,
+    "uses": 64,
+    "range": 2,
+    "power": 1.4,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Diamond",
+    "id": 321,
+    "variants": 1,
+    "sizes": [
+      9,
+      7
+    ],
+    "row": 10,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Medium Cake",
+    "id": 323,
+    "variants": 1,
+    "sizes": [
+      8,
+      10
+    ],
+    "row": 10,
+    "col": 3,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Empty Mug",
+    "id": 324,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 10,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pixel Ghosts",
+    "id": 325,
+    "variants": 6,
+    "sizes": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8,
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "row": 10,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Rotting Eye",
+    "id": 326,
+    "variants": 2,
+    "sizes": [
+      10,
+      7,
+      10,
+      7
+    ],
+    "row": 10,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Necklace",
+    "id": 329,
+    "variants": 3,
+    "sizes": [
+      7,
+      12,
+      7,
+      12,
+      7,
+      12
+    ],
+    "row": 10,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Abat Jour",
+    "id": 331,
+    "variants": 1,
+    "sizes": [
+      11,
+      14
+    ],
+    "row": 10,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Purple Goo",
+    "id": 339,
+    "variants": 1,
+    "sizes": [
+      6,
+      6
+    ],
+    "row": 10,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Boar Meat",
+    "id": 340,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 10,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Bush Leaf",
+    "id": 341,
+    "variants": 1,
+    "sizes": [
+      8,
+      5
+    ],
+    "row": 10,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Black Yarn",
+    "id": 342,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 10,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "Black Yarn"
+  },
+  {
+    "name": "Bamboo Wall",
+    "id": 343,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 10,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Jungle Stone",
+    "id": 344,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 10,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Anvil",
+    "id": 345,
+    "variants": 1,
+    "sizes": [
+      12,
+      7
+    ],
+    "row": 10,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Purple Cloth",
+    "id": 347,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 10,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Wood Stairs",
+    "id": 348,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 10,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Silver Hammer",
+    "id": 350,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 10,
+    "col": 30,
+    "value": 10,
+    "uses": 196,
+    "range": 2,
+    "power": 1.8,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": "A strong silver hammer"
+  },
+  {
+    "name": "Iron Axe",
+    "id": 351,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 10,
+    "col": 31,
+    "value": 10,
+    "uses": 128,
+    "range": 2,
+    "power": 1.6,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Amethyst",
+    "id": 353,
+    "variants": 1,
+    "sizes": [
+      9,
+      7
+    ],
+    "row": 11,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Big Cake",
+    "id": 355,
+    "variants": 1,
+    "sizes": [
+      11,
+      10
+    ],
+    "row": 11,
+    "col": 3,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A Delicious cake"
+  },
+  {
+    "name": "Mug Of Beer",
+    "id": 356,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 11,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Roast Chickenq",
+    "id": 363,
+    "variants": 1,
+    "sizes": [
+      16,
+      9
+    ],
+    "row": 11,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "Still moving!"
+  },
+  {
+    "name": "Valentine Heart",
+    "id": 366,
+    "variants": 5,
+    "sizes": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "row": 11,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Amulet",
+    "id": 368,
+    "variants": 6,
+    "sizes": [
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14
+    ],
+    "row": 11,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Big Gold Ring",
+    "id": 369,
+    "variants": 6,
+    "sizes": [
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10
+    ],
+    "row": 11,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Greek Statue Head",
+    "id": 371,
+    "variants": 1,
+    "sizes": [
+      13,
+      15
+    ],
+    "row": 11,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Greek Statue Middle",
+    "id": 372,
+    "variants": 1,
+    "sizes": [
+      13,
+      15
+    ],
+    "row": 11,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Greek Statue Base",
+    "id": 373,
+    "variants": 1,
+    "sizes": [
+      12,
+      14
+    ],
+    "row": 11,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Bandage",
+    "id": 374,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 11,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Wall",
+    "id": 375,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 11,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Maya Dirt",
+    "id": 376,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 11,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Maya dirt "
+  },
+  {
+    "name": "Bamboo Bridge",
+    "id": 377,
+    "variants": 1,
+    "sizes": [
+      12,
+      5
+    ],
+    "row": 11,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Blue Cloth",
+    "id": 379,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 11,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Grappling Hooks",
+    "id": 381,
+    "variants": 1,
+    "sizes": [
+      8,
+      10
+    ],
+    "row": 11,
+    "col": 29,
+    "value": 24,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Axe",
+    "id": 382,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 11,
+    "col": 30,
+    "value": 10,
+    "uses": 196,
+    "range": 2,
+    "power": 1.8,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": "A strong silver axe"
+  },
+  {
+    "name": "Gold Axe",
+    "id": 383,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 11,
+    "col": 31,
+    "value": 10,
+    "uses": 256,
+    "range": 3,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Topaz",
+    "id": 385,
+    "variants": 1,
+    "sizes": [
+      9,
+      7
+    ],
+    "row": 12,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Soda",
+    "id": 387,
+    "variants": 1,
+    "sizes": [
+      7,
+      14
+    ],
+    "row": 12,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Mug Of Brown Beer",
+    "id": 388,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 12,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Small Bottle",
+    "id": 390,
+    "variants": 4,
+    "sizes": [
+      7,
+      11,
+      7,
+      11,
+      7,
+      11,
+      7,
+      11
+    ],
+    "row": 12,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Candy",
+    "id": 392,
+    "variants": 6,
+    "sizes": [
+      8,
+      4,
+      8,
+      4,
+      8,
+      4,
+      8,
+      4,
+      8,
+      4,
+      8,
+      4
+    ],
+    "row": 12,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Brown Toupee",
+    "id": 394,
+    "variants": 1,
+    "sizes": [
+      12,
+      8
+    ],
+    "row": 12,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A Brown Toupee"
+  },
+  {
+    "name": "Red Torch",
+    "id": 395,
+    "variants": 1,
+    "sizes": [
+      14,
+      5
+    ],
+    "row": 12,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "Should Make light"
+  },
+  {
+    "name": "Small Gold Ring",
+    "id": 396,
+    "variants": 6,
+    "sizes": [
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9,
+      7,
+      9
+    ],
+    "row": 12,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pure Gold Ring",
+    "id": 397,
+    "variants": 6,
+    "sizes": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "row": 12,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Copper Necklace",
+    "id": 402,
+    "variants": 6,
+    "sizes": [
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14,
+      11,
+      14
+    ],
+    "row": 12,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Maya Statue Head",
+    "id": 403,
+    "variants": 1,
+    "sizes": [
+      15,
+      16
+    ],
+    "row": 12,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Maya Statue Middle",
+    "id": 404,
+    "variants": 1,
+    "sizes": [
+      15,
+      16
+    ],
+    "row": 12,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Maya Statue Base",
+    "id": 405,
+    "variants": 1,
+    "sizes": [
+      15,
+      14
+    ],
+    "row": 12,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Glass Shard",
+    "id": 406,
+    "variants": 1,
+    "sizes": [
+      8,
+      10
+    ],
+    "row": 12,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Boulder",
+    "id": 407,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 12,
+    "col": 23,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Violet Stone",
+    "id": 408,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 12,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Violet Stone"
+  },
+  {
+    "name": "Violet Dirt",
+    "id": 409,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 12,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Violet Dirt"
+  },
+  {
+    "name": "Cyan Cloth",
+    "id": 411,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 12,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Tetris Block",
+    "id": 412,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 12,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "a Tetris block!"
+  },
+  {
+    "name": "Skeleton Block",
+    "id": 413,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 12,
+    "col": 29,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "A block made of skeletons.Can be placed"
+  },
+  {
+    "name": "Egyptian Pickaxe",
+    "id": 414,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 12,
+    "col": 30,
+    "value": 100,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Axe",
+    "id": 415,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 12,
+    "col": 31,
+    "value": 10,
+    "uses": 512,
+    "range": 3,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Sapphire",
+    "id": 417,
+    "variants": 1,
+    "sizes": [
+      9,
+      7
+    ],
+    "row": 13,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cola",
+    "id": 419,
+    "variants": 1,
+    "sizes": [
+      7,
+      14
+    ],
+    "row": 13,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Grog",
+    "id": 420,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 13,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Infinity Amethyst",
+    "id": 425,
+    "variants": 1,
+    "sizes": [
+      5,
+      11
+    ],
+    "row": 13,
+    "col": 9,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Treasure Map",
+    "id": 426,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 13,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "An ancient treasure map"
+  },
+  {
+    "name": "Blue Pill",
+    "id": 427,
+    "variants": 1,
+    "sizes": [
+      8,
+      6
+    ],
+    "row": 13,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "Lovely blue pill"
+  },
+  {
+    "name": "Egypt Statue Head",
+    "id": 435,
+    "variants": 1,
+    "sizes": [
+      15,
+      16
+    ],
+    "row": 13,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Egypt Statue Middle",
+    "id": 436,
+    "variants": 1,
+    "sizes": [
+      15,
+      16
+    ],
+    "row": 13,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Egypt Statue Base",
+    "id": 437,
+    "variants": 1,
+    "sizes": [
+      15,
+      13
+    ],
+    "row": 13,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Sofa",
+    "id": 438,
+    "variants": 1,
+    "sizes": [
+      14,
+      11
+    ],
+    "row": 13,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Maya Stone",
+    "id": 440,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 13,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Maya Stone"
+  },
+  {
+    "name": "Sand",
+    "id": 441,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 13,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Sand"
+  },
+  {
+    "name": "Green Cloth",
+    "id": 443,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 13,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Wood Table",
+    "id": 444,
+    "variants": 1,
+    "sizes": [
+      12,
+      8
+    ],
+    "row": 13,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "Wood Table"
+  },
+  {
+    "name": "Copper Skull Pickaxe",
+    "id": 446,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 13,
+    "col": 30,
+    "value": 10,
+    "uses": 256,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Diamond Axe",
+    "id": 447,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 13,
+    "col": 31,
+    "value": 10,
+    "uses": 255,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Emerald",
+    "id": 449,
+    "variants": 1,
+    "sizes": [
+      9,
+      7
+    ],
+    "row": 14,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Big Jewel",
+    "id": 450,
+    "variants": 6,
+    "sizes": [
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    ],
+    "row": 14,
+    "col": 2,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bull",
+    "id": 451,
+    "variants": 1,
+    "sizes": [
+      5,
+      14
+    ],
+    "row": 14,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Vintage Gamepad",
+    "id": 452,
+    "variants": 1,
+    "sizes": [
+      14,
+      8
+    ],
+    "row": 14,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Big Jewel Plate",
+    "id": 457,
+    "variants": 3,
+    "sizes": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "row": 14,
+    "col": 9,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Katana",
+    "id": 458,
+    "variants": 1,
+    "sizes": [
+      16,
+      2
+    ],
+    "row": 14,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "An ancient katana"
+  },
+  {
+    "name": "Red Pepper",
+    "id": 459,
+    "variants": 1,
+    "sizes": [
+      6,
+      12
+    ],
+    "row": 14,
+    "col": 11,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "Hot Chili Pepper, eat carefully."
+  },
+  {
+    "name": "Skull Statue Head",
+    "id": 467,
+    "variants": 1,
+    "sizes": [
+      15,
+      16
+    ],
+    "row": 14,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Skull Statue Middle",
+    "id": 468,
+    "variants": 1,
+    "sizes": [
+      13,
+      14
+    ],
+    "row": 14,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Skull Statue Base",
+    "id": 469,
+    "variants": 1,
+    "sizes": [
+      15,
+      15
+    ],
+    "row": 14,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Small Closet",
+    "id": 470,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 14,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Hell Stone",
+    "id": 471,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 14,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Hell Stone"
+  },
+  {
+    "name": "Maya Snake Spiral",
+    "id": 472,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 14,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "maya snake spiral"
+  },
+  {
+    "name": "Plate Rock",
+    "id": 473,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 14,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "adsa",
+    "id": 474,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 14,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Yellow Cloth",
+    "id": 475,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 14,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Wood Chair",
+    "id": 476,
+    "variants": 1,
+    "sizes": [
+      6,
+      11
+    ],
+    "row": 14,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "Wood Chair"
+  },
+  {
+    "name": "Voodoo PickAxe",
+    "id": 478,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 14,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": "A jungle pickaxe"
+  },
+  {
+    "name": "Wood Sword",
+    "id": 479,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 14,
+    "col": 31,
+    "value": 10,
+    "uses": 48,
+    "range": 1,
+    "power": 1.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Ruby",
+    "id": 481,
+    "variants": 1,
+    "sizes": [
+      9,
+      7
+    ],
+    "row": 15,
+    "col": 1,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Croissant",
+    "id": 483,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 15,
+    "col": 3,
+    "value": 5,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "A soft and tasty croissant."
+  },
+  {
+    "name": "Painting 1",
+    "id": 484,
+    "variants": 1,
+    "sizes": [
+      9,
+      12
+    ],
+    "row": 15,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Gold Cup Jewel",
+    "id": 487,
+    "variants": 1,
+    "sizes": [
+      6,
+      11
+    ],
+    "row": 15,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Garlic",
+    "id": 490,
+    "variants": 1,
+    "sizes": [
+      7,
+      8
+    ],
+    "row": 15,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "Ow. That smells"
+  },
+  {
+    "name": "Fruit Drink",
+    "id": 491,
+    "variants": 1,
+    "sizes": [
+      5,
+      15
+    ],
+    "row": 15,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "A not so fresh fruit drink."
+  },
+  {
+    "name": "Tiny Bomb",
+    "id": 495,
+    "variants": 1,
+    "sizes": [
+      6,
+      8
+    ],
+    "row": 15,
+    "col": 15,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "throwable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Bar",
+    "id": 499,
+    "variants": 1,
+    "sizes": [
+      11,
+      3
+    ],
+    "row": 15,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Drawer",
+    "id": 500,
+    "variants": 1,
+    "sizes": [
+      13,
+      7
+    ],
+    "row": 15,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Tuffet",
+    "id": 501,
+    "variants": 1,
+    "sizes": [
+      12,
+      5
+    ],
+    "row": 15,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Closet",
+    "id": 502,
+    "variants": 1,
+    "sizes": [
+      12,
+      16
+    ],
+    "row": 15,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Maya Snake",
+    "id": 503,
+    "variants": 1,
+    "sizes": [
+      8,
+      13
+    ],
+    "row": 15,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "Maya Snake"
+  },
+  {
+    "name": "Clay",
+    "id": 504,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 15,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Mud"
+  },
+  {
+    "name": "Mossy Gravelstone",
+    "id": 505,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 15,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Rotting Gravelstone"
+  },
+  {
+    "name": "Orange Cloth",
+    "id": 507,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 15,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Cga Pickaxe",
+    "id": 510,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 15,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Stone Sword",
+    "id": 511,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 15,
+    "col": 31,
+    "value": 10,
+    "uses": 96,
+    "range": 1,
+    "power": 1.2,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Electro Shard",
+    "id": 513,
+    "variants": 3,
+    "sizes": [
+      9,
+      5,
+      11,
+      5,
+      15,
+      5
+    ],
+    "row": 16,
+    "col": 1,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Painting 2",
+    "id": 515,
+    "variants": 1,
+    "sizes": [
+      9,
+      12
+    ],
+    "row": 16,
+    "col": 3,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Tetris Piece",
+    "id": 516,
+    "variants": 7,
+    "sizes": [
+      6,
+      9,
+      6,
+      6,
+      6,
+      9,
+      6,
+      9,
+      3,
+      12,
+      6,
+      9,
+      6,
+      9
+    ],
+    "row": 16,
+    "col": 4,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cherry",
+    "id": 517,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 16,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Big Bottle",
+    "id": 518,
+    "variants": 3,
+    "sizes": [
+      7,
+      15,
+      7,
+      15,
+      7,
+      15
+    ],
+    "row": 16,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Floppy Disk",
+    "id": 519,
+    "variants": 5,
+    "sizes": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "row": 16,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Picture Frame",
+    "id": 522,
+    "variants": 1,
+    "sizes": [
+      12,
+      14
+    ],
+    "row": 16,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A picture frame made of gold"
+  },
+  {
+    "name": "Empty Chocolate Heart Box",
+    "id": 526,
+    "variants": 1,
+    "sizes": [
+      12,
+      13
+    ],
+    "row": 16,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Silver Bar",
+    "id": 531,
+    "variants": 1,
+    "sizes": [
+      11,
+      3
+    ],
+    "row": 16,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Iron Chest",
+    "id": 532,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 16,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Reinforced Door",
+    "id": 533,
+    "variants": 1,
+    "sizes": [
+      7,
+      13
+    ],
+    "row": 16,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Bed",
+    "id": 534,
+    "variants": 1,
+    "sizes": [
+      13,
+      10
+    ],
+    "row": 16,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Dark Maya Bricks",
+    "id": 535,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 16,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Dark Maya Bricks"
+  },
+  {
+    "name": "Mossy Maya Bricks",
+    "id": 536,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 16,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Mossy Maya Bricks"
+  },
+  {
+    "name": "Maya Snake Stone",
+    "id": 537,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 16,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Maya Snake Brick"
+  },
+  {
+    "name": "Black Cloth",
+    "id": 539,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 16,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Jungle Pickaxe",
+    "id": 541,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 16,
+    "col": 29,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Bone Pickaxe",
+    "id": 542,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 16,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Sword",
+    "id": 543,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 16,
+    "col": 31,
+    "value": 10,
+    "uses": 128,
+    "range": 2,
+    "power": 1.5,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Painting 3",
+    "id": 547,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 17,
+    "col": 3,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Blackberry",
+    "id": 549,
+    "variants": 1,
+    "sizes": [
+      6,
+      6
+    ],
+    "row": 17,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Small Jewel Button",
+    "id": 553,
+    "variants": 4,
+    "sizes": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "row": 17,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Wrench",
+    "id": 554,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 17,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A generic wrench"
+  },
+  {
+    "name": "Full Chocolate Heart Box",
+    "id": 558,
+    "variants": 1,
+    "sizes": [
+      12,
+      13
+    ],
+    "row": 17,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Small Bomb",
+    "id": 559,
+    "variants": 1,
+    "sizes": [
+      11,
+      3
+    ],
+    "row": 17,
+    "col": 15,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "throwable",
+    "desc": ""
+  },
+  {
+    "name": "Copper Amulet",
+    "id": 560,
+    "variants": 6,
+    "sizes": [
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14,
+      7,
+      14
+    ],
+    "row": 17,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Big Copper Ring",
+    "id": 561,
+    "variants": 6,
+    "sizes": [
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10,
+      7,
+      10
+    ],
+    "row": 17,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Copper Bar",
+    "id": 563,
+    "variants": 1,
+    "sizes": [
+      11,
+      3
+    ],
+    "row": 17,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Copper Chest",
+    "id": 564,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 17,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Chain",
+    "id": 565,
+    "variants": 1,
+    "sizes": [
+      10,
+      13
+    ],
+    "row": 17,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Iron Ladder",
+    "id": 566,
+    "variants": 1,
+    "sizes": [
+      8,
+      13
+    ],
+    "row": 17,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Egypt Pyramid",
+    "id": 567,
+    "variants": 1,
+    "sizes": [
+      11,
+      6
+    ],
+    "row": 17,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": "Egypt Pyramid"
+  },
+  {
+    "name": "Jungle Dirt",
+    "id": 569,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 17,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Cracked Glass",
+    "id": 570,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 17,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Flower",
+    "id": 571,
+    "variants": 1,
+    "sizes": [
+      8,
+      13
+    ],
+    "row": 17,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Red Dust",
+    "id": 572,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 17,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Dark Pickaxe",
+    "id": 573,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 17,
+    "col": 29,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Magic Pickaxe",
+    "id": 574,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 17,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Iron MediumSword",
+    "id": 575,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 17,
+    "col": 31,
+    "value": 60,
+    "uses": 60,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Coal Lump",
+    "id": 576,
+    "variants": 3,
+    "sizes": [
+      8,
+      6,
+      8,
+      6,
+      7,
+      7
+    ],
+    "row": 18,
+    "col": 0,
+    "value": 20,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A coal stone, it has various uses."
+  },
+  {
+    "name": "Painting 4",
+    "id": 579,
+    "variants": 1,
+    "sizes": [
+      14,
+      11
+    ],
+    "row": 18,
+    "col": 3,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Pear",
+    "id": 581,
+    "variants": 1,
+    "sizes": [
+      7,
+      9
+    ],
+    "row": 18,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Fish Skeleton",
+    "id": 584,
+    "variants": 1,
+    "sizes": [
+      13,
+      6
+    ],
+    "row": 18,
+    "col": 8,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Microphone",
+    "id": 586,
+    "variants": 1,
+    "sizes": [
+      12,
+      15
+    ],
+    "row": 18,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pod",
+    "id": 587,
+    "variants": 1,
+    "sizes": [
+      8,
+      12
+    ],
+    "row": 18,
+    "col": 11,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": "A famous music player"
+  },
+  {
+    "name": "Small Glasses",
+    "id": 588,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 18,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A small pair of glasses"
+  },
+  {
+    "name": "Tnt",
+    "id": 590,
+    "variants": 1,
+    "sizes": [
+      12,
+      13
+    ],
+    "row": 18,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Bomb",
+    "id": 591,
+    "variants": 1,
+    "sizes": [
+      6,
+      10
+    ],
+    "row": 18,
+    "col": 15,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "throwable",
+    "desc": ""
+  },
+  {
+    "name": "Small Wood Plank",
+    "id": 594,
+    "variants": 1,
+    "sizes": [
+      7,
+      3
+    ],
+    "row": 18,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Bar",
+    "id": 595,
+    "variants": 1,
+    "sizes": [
+      11,
+      3
+    ],
+    "row": 18,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Silver Chest",
+    "id": 596,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 18,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Clock Mechanism",
+    "id": 597,
+    "variants": 1,
+    "sizes": [
+      8,
+      9
+    ],
+    "row": 18,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Ceiling Torch Lamp",
+    "id": 598,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 18,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Hell Skull Brick",
+    "id": 599,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 18,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Hell Skull"
+  },
+  {
+    "name": "Egypt Stone",
+    "id": 600,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 18,
+    "col": 24,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Egypt Dirt",
+    "id": 601,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 18,
+    "col": 25,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Small Rock",
+    "id": 602,
+    "variants": 1,
+    "sizes": [
+      12,
+      8
+    ],
+    "row": 18,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Bush",
+    "id": 603,
+    "variants": 1,
+    "sizes": [
+      15,
+      10
+    ],
+    "row": 18,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Purple Dust",
+    "id": 604,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 18,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Mushroom Pickaxe",
+    "id": 605,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 18,
+    "col": 29,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Pinball Pickaxe",
+    "id": 606,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 18,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Iron LongSword",
+    "id": 607,
+    "variants": 1,
+    "sizes": [
+      16,
+      15
+    ],
+    "row": 18,
+    "col": 31,
+    "value": 60,
+    "uses": 100,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Wood Plank",
+    "id": 609,
+    "variants": 1,
+    "sizes": [
+      12,
+      3
+    ],
+    "row": 19,
+    "col": 1,
+    "value": 5,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Painting 5",
+    "id": 611,
+    "variants": 1,
+    "sizes": [
+      9,
+      12
+    ],
+    "row": 19,
+    "col": 3,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Strawberry",
+    "id": 613,
+    "variants": 1,
+    "sizes": [
+      6,
+      6
+    ],
+    "row": 19,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Fruit Basket",
+    "id": 614,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 19,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Green Fish",
+    "id": 616,
+    "variants": 1,
+    "sizes": [
+      13,
+      6
+    ],
+    "row": 19,
+    "col": 8,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Tea Leaf",
+    "id": 618,
+    "variants": 1,
+    "sizes": [
+      8,
+      10
+    ],
+    "row": 19,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cd",
+    "id": 619,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 19,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A new, shiny cd. Wonder what this contains.."
+  },
+  {
+    "name": "Motor Oil",
+    "id": 620,
+    "variants": 1,
+    "sizes": [
+      9,
+      13
+    ],
+    "row": 19,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A motor oil bottle"
+  },
+  {
+    "name": "Big Bomb",
+    "id": 623,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 19,
+    "col": 15,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "throwable",
+    "desc": ""
+  },
+  {
+    "name": "Cuckoo Clock",
+    "id": 626,
+    "variants": 1,
+    "sizes": [
+      10,
+      15
+    ],
+    "row": 19,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Bar",
+    "id": 627,
+    "variants": 1,
+    "sizes": [
+      11,
+      3
+    ],
+    "row": 19,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Chest",
+    "id": 628,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 19,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Barrel",
+    "id": 629,
+    "variants": 1,
+    "sizes": [
+      9,
+      12
+    ],
+    "row": 19,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Iron Fence",
+    "id": 630,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 19,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Clay Bricks",
+    "id": 633,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 19,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Wood Sign",
+    "id": 634,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 19,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Green Goo Torch",
+    "id": 635,
+    "variants": 1,
+    "sizes": [
+      7,
+      12
+    ],
+    "row": 19,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Blue Dust",
+    "id": 636,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 19,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Magma Pickaxe",
+    "id": 637,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 19,
+    "col": 29,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Sushi Pickaxe",
+    "id": 638,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 19,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Copper Sword",
+    "id": 639,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 19,
+    "col": 31,
+    "value": 10,
+    "uses": 128,
+    "range": 2,
+    "power": 1.3,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Small Jewel",
+    "id": 642,
+    "variants": 7,
+    "sizes": [
+      6,
+      9,
+      6,
+      9,
+      6,
+      9,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "row": 20,
+    "col": 2,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Painting 7",
+    "id": 643,
+    "variants": 1,
+    "sizes": [
+      9,
+      12
+    ],
+    "row": 20,
+    "col": 3,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Banana",
+    "id": 645,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 20,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Bananas",
+    "id": 646,
+    "variants": 1,
+    "sizes": [
+      11,
+      9
+    ],
+    "row": 20,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Orange Fish",
+    "id": 648,
+    "variants": 1,
+    "sizes": [
+      13,
+      6
+    ],
+    "row": 20,
+    "col": 8,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Magic Hat",
+    "id": 650,
+    "variants": 1,
+    "sizes": [
+      10,
+      12
+    ],
+    "row": 20,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A magic hat"
+  },
+  {
+    "name": "Brick",
+    "id": 651,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 20,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A brown brick"
+  },
+  {
+    "name": "Spinach",
+    "id": 652,
+    "variants": 1,
+    "sizes": [
+      12,
+      16
+    ],
+    "row": 20,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": "Spinach"
+  },
+  {
+    "name": "Wall Pendulum",
+    "id": 658,
+    "variants": 1,
+    "sizes": [
+      8,
+      15
+    ],
+    "row": 20,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Chest",
+    "id": 660,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 20,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Lantern",
+    "id": 662,
+    "variants": 1,
+    "sizes": [
+      6,
+      13
+    ],
+    "row": 20,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Wood Cabinet",
+    "id": 665,
+    "variants": 1,
+    "sizes": [
+      12,
+      13
+    ],
+    "row": 20,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Spider Web",
+    "id": 666,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 20,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Bone Torch",
+    "id": 667,
+    "variants": 1,
+    "sizes": [
+      7,
+      12
+    ],
+    "row": 20,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Cyan Dust",
+    "id": 668,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 20,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Maya Pickaxe",
+    "id": 670,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 20,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Copper MediumSword",
+    "id": 671,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 20,
+    "col": 31,
+    "value": 50,
+    "uses": 70,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Lump",
+    "id": 672,
+    "variants": 3,
+    "sizes": [
+      7,
+      5,
+      6,
+      6,
+      6,
+      5
+    ],
+    "row": 21,
+    "col": 0,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Painting 6",
+    "id": 675,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 21,
+    "col": 3,
+    "value": 100,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Grape",
+    "id": 677,
+    "variants": 1,
+    "sizes": [
+      6,
+      9
+    ],
+    "row": 21,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Watermelon",
+    "id": 678,
+    "variants": 1,
+    "sizes": [
+      10,
+      12
+    ],
+    "row": 21,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Skull",
+    "id": 679,
+    "variants": 1,
+    "sizes": [
+      10,
+      12
+    ],
+    "row": 21,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Fat Fish",
+    "id": 680,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 21,
+    "col": 8,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Small Necklace",
+    "id": 681,
+    "variants": 2,
+    "sizes": [
+      7,
+      11,
+      7,
+      11
+    ],
+    "row": 21,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Red Glass Sphere",
+    "id": 682,
+    "variants": 1,
+    "sizes": [
+      5,
+      5
+    ],
+    "row": 21,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Sad Smile T-Shirt",
+    "id": 683,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 21,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A sad T-shirt"
+  },
+  {
+    "name": "Tiny Santa",
+    "id": 684,
+    "variants": 1,
+    "sizes": [
+      12,
+      14
+    ],
+    "row": 21,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "id": 685,
+    "variants": 1,
+    "sizes": [
+      8,
+      14
+    ],
+    "row": 21,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Tiny Christmas Tree",
+    "id": 686,
+    "variants": 1,
+    "sizes": [
+      9,
+      13
+    ],
+    "row": 21,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Snow Man Head",
+    "id": 687,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 21,
+    "col": 15,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Clay Pot",
+    "id": 690,
+    "variants": 1,
+    "sizes": [
+      11,
+      10
+    ],
+    "row": 21,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Empty Vial",
+    "id": 691,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 21,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Wood Fence",
+    "id": 692,
+    "variants": 1,
+    "sizes": [
+      8,
+      9
+    ],
+    "row": 21,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Green Grass",
+    "id": 693,
+    "variants": 1,
+    "sizes": [
+      6,
+      10
+    ],
+    "row": 21,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Chestnut",
+    "id": 694,
+    "variants": 1,
+    "sizes": [
+      6,
+      8
+    ],
+    "row": 21,
+    "col": 22,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Chestnut Fruit",
+    "id": 695,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 21,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Small Wood Cabinet",
+    "id": 697,
+    "variants": 1,
+    "sizes": [
+      12,
+      9
+    ],
+    "row": 21,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Purple Goo Torch",
+    "id": 699,
+    "variants": 1,
+    "sizes": [
+      7,
+      12
+    ],
+    "row": 21,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Green Dust",
+    "id": 700,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 21,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Wrench Pickaxe",
+    "id": 701,
+    "variants": 1,
+    "sizes": [
+      13,
+      10
+    ],
+    "row": 21,
+    "col": 29,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Teeth Pickaxe",
+    "id": 702,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 21,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Copper LongSword",
+    "id": 703,
+    "variants": 1,
+    "sizes": [
+      16,
+      15
+    ],
+    "row": 21,
+    "col": 31,
+    "value": 50,
+    "uses": 100,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Painting 8",
+    "id": 707,
+    "variants": 1,
+    "sizes": [
+      14,
+      11
+    ],
+    "row": 22,
+    "col": 3,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Orange",
+    "id": 709,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 22,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Melon",
+    "id": 710,
+    "variants": 1,
+    "sizes": [
+      9,
+      9
+    ],
+    "row": 22,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Ribcage",
+    "id": 711,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 22,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Flower Vase",
+    "id": 712,
+    "variants": 5,
+    "sizes": [
+      7,
+      11,
+      7,
+      11,
+      7,
+      11,
+      7,
+      11,
+      7,
+      11
+    ],
+    "row": 22,
+    "col": 8,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Sushi Stick",
+    "id": 714,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 22,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A sushi stick"
+  },
+  {
+    "name": "Love Shirt",
+    "id": 715,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 22,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A lovely red shirt."
+  },
+  {
+    "name": "Christmas Candy Cane",
+    "id": 716,
+    "variants": 1,
+    "sizes": [
+      9,
+      14
+    ],
+    "row": 22,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Tiny Frosty",
+    "id": 717,
+    "variants": 1,
+    "sizes": [
+      7,
+      10
+    ],
+    "row": 22,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Heart Biscuit",
+    "id": 718,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 22,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Christmas Bell",
+    "id": 719,
+    "variants": 3,
+    "sizes": [
+      8,
+      13,
+      8,
+      13,
+      8,
+      13
+    ],
+    "row": 22,
+    "col": 15,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Tiki Torch",
+    "id": 722,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 22,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "White Liquid Vial",
+    "id": 723,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 22,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Fuse",
+    "id": 724,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 22,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Chest Left Piece",
+    "id": 725,
+    "variants": 1,
+    "sizes": [
+      7,
+      11
+    ],
+    "row": 22,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bottomless Chest",
+    "id": 726,
+    "variants": 1,
+    "sizes": [
+      14,
+      11
+    ],
+    "row": 22,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Strange Stone",
+    "id": 728,
+    "variants": 1,
+    "sizes": [
+      16,
+      16
+    ],
+    "row": 22,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Trap Door",
+    "id": 729,
+    "variants": 1,
+    "sizes": [
+      13,
+      5
+    ],
+    "row": 22,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Spider Silk",
+    "id": 730,
+    "variants": 1,
+    "sizes": [
+      10,
+      8
+    ],
+    "row": 22,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Dead Tree Sapling",
+    "id": 731,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 22,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Yellow Dust",
+    "id": 732,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 22,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Mossy Skull Pickaxe",
+    "id": 733,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 22,
+    "col": 29,
+    "value": 10,
+    "uses": 128,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Sword",
+    "id": 735,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 22,
+    "col": 31,
+    "value": 10,
+    "uses": 196,
+    "range": 2,
+    "power": 1.6,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Fruit Drink Bottle",
+    "id": 742,
+    "variants": 3,
+    "sizes": [
+      6,
+      12,
+      6,
+      12,
+      6,
+      12
+    ],
+    "row": 23,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Hip Bone",
+    "id": 743,
+    "variants": 1,
+    "sizes": [
+      11,
+      7
+    ],
+    "row": 23,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Maya Gold Trinket",
+    "id": 745,
+    "variants": 1,
+    "sizes": [
+      6,
+      11
+    ],
+    "row": 23,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Red Flag",
+    "id": 746,
+    "variants": 1,
+    "sizes": [
+      9,
+      14
+    ],
+    "row": 23,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A red flag"
+  },
+  {
+    "name": "P-Shirt",
+    "id": 747,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 23,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Christmas Wreath",
+    "id": 748,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 23,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Christmas Socks",
+    "id": 749,
+    "variants": 3,
+    "sizes": [
+      9,
+      15,
+      9,
+      15,
+      9,
+      15
+    ],
+    "row": 23,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bone",
+    "id": 754,
+    "variants": 1,
+    "sizes": [
+      11,
+      4
+    ],
+    "row": 23,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Red Liquid Vial",
+    "id": 755,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 23,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Chest Center Piece",
+    "id": 757,
+    "variants": 1,
+    "sizes": [
+      8,
+      11
+    ],
+    "row": 23,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Roasted Chicken Meat",
+    "id": 761,
+    "variants": 1,
+    "sizes": [
+      15,
+      9
+    ],
+    "row": 23,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Snow Man",
+    "id": 762,
+    "variants": 1,
+    "sizes": [
+      13,
+      15
+    ],
+    "row": 23,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Black Dust",
+    "id": 763,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 23,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Orange Dust",
+    "id": 764,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 23,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Skull Pickaxe",
+    "id": 765,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 23,
+    "col": 29,
+    "value": 10,
+    "uses": 500,
+    "range": 2,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "equippable",
+    "desc": ""
+  },
+  {
+    "name": "Silver Lump",
+    "id": 768,
+    "variants": 3,
+    "sizes": [
+      7,
+      5,
+      6,
+      6,
+      6,
+      5
+    ],
+    "row": 24,
+    "col": 0,
+    "value": 40,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Leg Bone",
+    "id": 775,
+    "variants": 1,
+    "sizes": [
+      15,
+      5
+    ],
+    "row": 24,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Skull",
+    "id": 777,
+    "variants": 1,
+    "sizes": [
+      9,
+      8
+    ],
+    "row": 24,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A precious gold skull"
+  },
+  {
+    "name": "Stop Watch",
+    "id": 778,
+    "variants": 1,
+    "sizes": [
+      15,
+      12
+    ],
+    "row": 24,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A Stop watch"
+  },
+  {
+    "name": "Creepy Shirt",
+    "id": 779,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 24,
+    "col": 11,
+    "value": 50,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": "A green creepy t-shirt!A great inspiration for us."
+  },
+  {
+    "name": "Christmas Biscuit",
+    "id": 780,
+    "variants": 4,
+    "sizes": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      7,
+      7
+    ],
+    "row": 24,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Winged Star",
+    "id": 782,
+    "variants": 1,
+    "sizes": [
+      15,
+      9
+    ],
+    "row": 24,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bear Meat",
+    "id": 784,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 24,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Rotting Meat",
+    "id": 785,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 24,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Brain",
+    "id": 786,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 24,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Purple Liquid Vial",
+    "id": 787,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 24,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Chest Right Piece",
+    "id": 789,
+    "variants": 1,
+    "sizes": [
+      7,
+      11
+    ],
+    "row": 24,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": false,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Snail Goo",
+    "id": 792,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 24,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Meat",
+    "id": 793,
+    "variants": 1,
+    "sizes": [
+      15,
+      9
+    ],
+    "row": 24,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Snow",
+    "id": 794,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 24,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Christmas Tree Head",
+    "id": 795,
+    "variants": 1,
+    "sizes": [
+      10,
+      16
+    ],
+    "row": 24,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Cold Dirt",
+    "id": 796,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 24,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Graveyard Dirt",
+    "id": 797,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 24,
+    "col": 29,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Hand Bone",
+    "id": 807,
+    "variants": 1,
+    "sizes": [
+      9,
+      8
+    ],
+    "row": 25,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Egyptian Crown",
+    "id": 809,
+    "variants": 1,
+    "sizes": [
+      9,
+      5
+    ],
+    "row": 25,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Old Phone",
+    "id": 810,
+    "variants": 1,
+    "sizes": [
+      14,
+      10
+    ],
+    "row": 25,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A very old red phone"
+  },
+  {
+    "name": "B-Shirt",
+    "id": 811,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 25,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Christmas Light",
+    "id": 815,
+    "variants": 5,
+    "sizes": [
+      6,
+      14,
+      6,
+      14,
+      6,
+      14,
+      6,
+      14,
+      6,
+      14
+    ],
+    "row": 25,
+    "col": 15,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Roasted Bear Meat",
+    "id": 816,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 25,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Blue Liquid Vial",
+    "id": 819,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 25,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Leather Collar",
+    "id": 820,
+    "variants": 1,
+    "sizes": [
+      12,
+      10
+    ],
+    "row": 25,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Skull Soul",
+    "id": 821,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 25,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bone Ladder",
+    "id": 822,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 25,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Snail Eye",
+    "id": 823,
+    "variants": 1,
+    "sizes": [
+      13,
+      4
+    ],
+    "row": 25,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Digested Skull",
+    "id": 825,
+    "variants": 1,
+    "sizes": [
+      11,
+      8
+    ],
+    "row": 25,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Snow Bricks",
+    "id": 826,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 25,
+    "col": 26,
+    "value": 20,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": "Snow bricks, good for igloos!"
+  },
+  {
+    "name": "Christmas Tree Middle",
+    "id": 827,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 25,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Christmas Tree Base",
+    "id": 828,
+    "variants": 1,
+    "sizes": [
+      15,
+      15
+    ],
+    "row": 25,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Peat",
+    "id": 829,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 25,
+    "col": 29,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Mithril Sword",
+    "id": 830,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 25,
+    "col": 30,
+    "value": 10,
+    "uses": 512,
+    "range": 2,
+    "power": 2.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Gold Sword",
+    "id": 831,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 25,
+    "col": 31,
+    "value": 10,
+    "uses": 128,
+    "range": 3,
+    "power": 1.6,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Old Cpu",
+    "id": 835,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 26,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Crowbar",
+    "id": 838,
+    "variants": 1,
+    "sizes": [
+      13,
+      11
+    ],
+    "row": 26,
+    "col": 6,
+    "value": 1,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A red crowbar"
+  },
+  {
+    "name": "Foot Bone",
+    "id": 839,
+    "variants": 1,
+    "sizes": [
+      11,
+      7
+    ],
+    "row": 26,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Walking Stick",
+    "id": 841,
+    "variants": 1,
+    "sizes": [
+      5,
+      13
+    ],
+    "row": 26,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A wood walking stick"
+  },
+  {
+    "name": "Clover",
+    "id": 842,
+    "variants": 1,
+    "sizes": [
+      8,
+      12
+    ],
+    "row": 26,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A four leaf clover.So lucky!"
+  },
+  {
+    "name": "Sewing Needle",
+    "id": 843,
+    "variants": 1,
+    "sizes": [
+      12,
+      15
+    ],
+    "row": 26,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A sewing needle"
+  },
+  {
+    "name": "Christmas Ball",
+    "id": 845,
+    "variants": 4,
+    "sizes": [
+      8,
+      10,
+      8,
+      10,
+      8,
+      10,
+      8,
+      10
+    ],
+    "row": 26,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Cactus Seed",
+    "id": 848,
+    "variants": 1,
+    "sizes": [
+      4,
+      7
+    ],
+    "row": 26,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Bear Tooth",
+    "id": 849,
+    "variants": 1,
+    "sizes": [
+      5,
+      9
+    ],
+    "row": 26,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Small Healing Potion",
+    "id": 850,
+    "variants": 1,
+    "sizes": [
+      3,
+      11
+    ],
+    "row": 26,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Cyan Liquid Vial",
+    "id": 851,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 26,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Mushroom Monster Head",
+    "id": 852,
+    "variants": 1,
+    "sizes": [
+      15,
+      15
+    ],
+    "row": 26,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Mushroom Monster Middle",
+    "id": 853,
+    "variants": 1,
+    "sizes": [
+      15,
+      15
+    ],
+    "row": 26,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Mushroom Monster Base",
+    "id": 854,
+    "variants": 1,
+    "sizes": [
+      15,
+      15
+    ],
+    "row": 26,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Spider Eye",
+    "id": 856,
+    "variants": 1,
+    "sizes": [
+      6,
+      6
+    ],
+    "row": 26,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Spider Leg",
+    "id": 857,
+    "variants": 1,
+    "sizes": [
+      14,
+      5
+    ],
+    "row": 26,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Jigsaw Puzzle Piece",
+    "id": 858,
+    "variants": 3,
+    "sizes": [
+      16,
+      13,
+      13,
+      16,
+      16,
+      13
+    ],
+    "row": 26,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Solved Jigsaw Puzzle",
+    "id": 859,
+    "variants": 1,
+    "sizes": [
+      16,
+      13
+    ],
+    "row": 26,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Vine",
+    "id": 862,
+    "variants": 1,
+    "sizes": [
+      10,
+      16
+    ],
+    "row": 26,
+    "col": 30,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Old Computer",
+    "id": 867,
+    "variants": 1,
+    "sizes": [
+      12,
+      14
+    ],
+    "row": 27,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Fuffy",
+    "id": 870,
+    "variants": 1,
+    "sizes": [
+      12,
+      11
+    ],
+    "row": 27,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A Cute Dog"
+  },
+  {
+    "name": "Jack Rotula",
+    "id": 871,
+    "variants": 1,
+    "sizes": [
+      6,
+      5
+    ],
+    "row": 27,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Muffler",
+    "id": 872,
+    "variants": 1,
+    "sizes": [
+      15,
+      10
+    ],
+    "row": 27,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A used scooter muffler"
+  },
+  {
+    "name": "Old Joystick",
+    "id": 873,
+    "variants": 1,
+    "sizes": [
+      13,
+      10
+    ],
+    "row": 27,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "An old retro fabulous joystick"
+  },
+  {
+    "name": "Sock",
+    "id": 874,
+    "variants": 1,
+    "sizes": [
+      5,
+      10
+    ],
+    "row": 27,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A colorful sock"
+  },
+  {
+    "name": "Bolt Of Cloth",
+    "id": 875,
+    "variants": 1,
+    "sizes": [
+      15,
+      14
+    ],
+    "row": 27,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Snow Glass",
+    "id": 878,
+    "variants": 1,
+    "sizes": [
+      9,
+      11
+    ],
+    "row": 27,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bamboo Seed",
+    "id": 880,
+    "variants": 1,
+    "sizes": [
+      3,
+      7
+    ],
+    "row": 27,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Worm Tooth",
+    "id": 881,
+    "variants": 1,
+    "sizes": [
+      5,
+      7
+    ],
+    "row": 27,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Medium Healing Potion",
+    "id": 882,
+    "variants": 1,
+    "sizes": [
+      4,
+      13
+    ],
+    "row": 27,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Yellow Liquid Vial",
+    "id": 883,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 27,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Snail Shell",
+    "id": 884,
+    "variants": 1,
+    "sizes": [
+      8,
+      7
+    ],
+    "row": 27,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cow Meat",
+    "id": 885,
+    "variants": 1,
+    "sizes": [
+      11,
+      10
+    ],
+    "row": 27,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Milk Bottle",
+    "id": 886,
+    "variants": 1,
+    "sizes": [
+      6,
+      15
+    ],
+    "row": 27,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Bone Bridge",
+    "id": 887,
+    "variants": 1,
+    "sizes": [
+      10,
+      6
+    ],
+    "row": 27,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Blue Worm Skin",
+    "id": 888,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 27,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bowl",
+    "id": 891,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 27,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Salt Crystal",
+    "id": 893,
+    "variants": 1,
+    "sizes": [
+      9,
+      7
+    ],
+    "row": 27,
+    "col": 29,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Soul Splitter",
+    "id": 894,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 27,
+    "col": 30,
+    "value": 10,
+    "uses": 128,
+    "range": 3,
+    "power": 2.6,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Cute Bear",
+    "id": 899,
+    "variants": 1,
+    "sizes": [
+      8,
+      13
+    ],
+    "row": 28,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Poisoned Apple",
+    "id": 901,
+    "variants": 1,
+    "sizes": [
+      7,
+      9
+    ],
+    "row": 28,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Soft Biscuit",
+    "id": 902,
+    "variants": 1,
+    "sizes": [
+      6,
+      6
+    ],
+    "row": 28,
+    "col": 6,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": "A soft butter biscuit"
+  },
+  {
+    "name": "Ceramic Vase",
+    "id": 903,
+    "variants": 1,
+    "sizes": [
+      9,
+      8
+    ],
+    "row": 28,
+    "col": 7,
+    "value": 255,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Pinball Ball",
+    "id": 904,
+    "variants": 1,
+    "sizes": [
+      7,
+      7
+    ],
+    "row": 28,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A Pinball Ball"
+  },
+  {
+    "name": "Pijama",
+    "id": 905,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 28,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A soft pijama"
+  },
+  {
+    "name": "Tennis Racket",
+    "id": 906,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 28,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A light tennis racket"
+  },
+  {
+    "name": "Chocolate Bar",
+    "id": 908,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 28,
+    "col": 12,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Snow Ball",
+    "id": 910,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 28,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Papyrus Sapling",
+    "id": 912,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 28,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Boar Tusk",
+    "id": 913,
+    "variants": 1,
+    "sizes": [
+      10,
+      5
+    ],
+    "row": 28,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Tootha",
+    "id": 914,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 28,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Green Liquid Vial",
+    "id": 915,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 28,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Upper Skull",
+    "id": 916,
+    "variants": 1,
+    "sizes": [
+      10,
+      10
+    ],
+    "row": 28,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Roasted Cow Meat",
+    "id": 917,
+    "variants": 1,
+    "sizes": [
+      11,
+      10
+    ],
+    "row": 28,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Intestines",
+    "id": 918,
+    "variants": 1,
+    "sizes": [
+      12,
+      9
+    ],
+    "row": 28,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Red Worm Skin",
+    "id": 920,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 28,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Spruce Sapling",
+    "id": 921,
+    "variants": 1,
+    "sizes": [
+      9,
+      15
+    ],
+    "row": 28,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Cactus Soup",
+    "id": 923,
+    "variants": 1,
+    "sizes": [
+      13,
+      9
+    ],
+    "row": 28,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Blue Worm Sword",
+    "id": 925,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 28,
+    "col": 29,
+    "value": 10,
+    "uses": 64,
+    "range": 2,
+    "power": 1.4,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Foot",
+    "id": 926,
+    "variants": 1,
+    "sizes": [
+      7,
+      8
+    ],
+    "row": 28,
+    "col": 30,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Curtains",
+    "id": 927,
+    "variants": 1,
+    "sizes": [
+      15,
+      14
+    ],
+    "row": 28,
+    "col": 31,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Half Bear",
+    "id": 931,
+    "variants": 1,
+    "sizes": [
+      8,
+      7
+    ],
+    "row": 29,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Videotape",
+    "id": 933,
+    "variants": 1,
+    "sizes": [
+      12,
+      7
+    ],
+    "row": 29,
+    "col": 5,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gold Tooth",
+    "id": 934,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 29,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A precious gold tooth"
+  },
+  {
+    "name": "Mining Helm",
+    "id": 935,
+    "variants": 1,
+    "sizes": [
+      12,
+      8
+    ],
+    "row": 29,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A Mining helm"
+  },
+  {
+    "name": "The Ring",
+    "id": 936,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 29,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A big, and precious ring"
+  },
+  {
+    "name": "Mirror",
+    "id": 937,
+    "variants": 1,
+    "sizes": [
+      8,
+      11
+    ],
+    "row": 29,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A portable red mirror"
+  },
+  {
+    "name": "Soccer Ball",
+    "id": 938,
+    "variants": 1,
+    "sizes": [
+      7,
+      7
+    ],
+    "row": 29,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A soccer ball"
+  },
+  {
+    "name": "Giant Glass",
+    "id": 939,
+    "variants": 1,
+    "sizes": [
+      9,
+      16
+    ],
+    "row": 29,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A giant glass"
+  },
+  {
+    "name": "Christmas Present",
+    "id": 942,
+    "variants": 2,
+    "sizes": [
+      13,
+      10,
+      10,
+      11
+    ],
+    "row": 29,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Snow Crystal",
+    "id": 944,
+    "variants": 3,
+    "sizes": [
+      11,
+      12,
+      11,
+      12,
+      11,
+      12
+    ],
+    "row": 29,
+    "col": 16,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Butcher Broom",
+    "id": 945,
+    "variants": 1,
+    "sizes": [
+      12,
+      9
+    ],
+    "row": 29,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bunny Tail",
+    "id": 946,
+    "variants": 1,
+    "sizes": [
+      4,
+      6
+    ],
+    "row": 29,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Black Liquid Vial",
+    "id": 947,
+    "variants": 1,
+    "sizes": [
+      6,
+      14
+    ],
+    "row": 29,
+    "col": 19,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Skull Mandible",
+    "id": 948,
+    "variants": 1,
+    "sizes": [
+      11,
+      7
+    ],
+    "row": 29,
+    "col": 20,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gooed Skull",
+    "id": 949,
+    "variants": 1,
+    "sizes": [
+      10,
+      13
+    ],
+    "row": 29,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Crescent Moon",
+    "id": 950,
+    "variants": 1,
+    "sizes": [
+      13,
+      13
+    ],
+    "row": 29,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Slime Eye",
+    "id": 951,
+    "variants": 1,
+    "sizes": [
+      11,
+      7
+    ],
+    "row": 29,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Gun Powder",
+    "id": 952,
+    "variants": 1,
+    "sizes": [
+      11,
+      7
+    ],
+    "row": 29,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Arm",
+    "id": 953,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 29,
+    "col": 25,
+    "value": 10,
+    "uses": 32,
+    "range": 1,
+    "power": 1.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Cross Gravestone",
+    "id": 954,
+    "variants": 1,
+    "sizes": [
+      12,
+      14
+    ],
+    "row": 29,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Wild Boar Goulash",
+    "id": 955,
+    "variants": 1,
+    "sizes": [
+      13,
+      10
+    ],
+    "row": 29,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Complete Zombie Statue",
+    "id": 956,
+    "variants": 1,
+    "sizes": [
+      11,
+      15
+    ],
+    "row": 29,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Red Worm Sword",
+    "id": 957,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 29,
+    "col": 29,
+    "value": 10,
+    "uses": 64,
+    "range": 2,
+    "power": 1.4,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Shirt",
+    "id": 958,
+    "variants": 1,
+    "sizes": [
+      15,
+      11
+    ],
+    "row": 29,
+    "col": 30,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bear Head",
+    "id": 963,
+    "variants": 1,
+    "sizes": [
+      8,
+      8
+    ],
+    "row": 30,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Giant Steak",
+    "id": 966,
+    "variants": 1,
+    "sizes": [
+      11,
+      10
+    ],
+    "row": 30,
+    "col": 6,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A giant and tasty steak"
+  },
+  {
+    "name": "Vintage Glasses",
+    "id": 967,
+    "variants": 1,
+    "sizes": [
+      16,
+      7
+    ],
+    "row": 30,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A big red pair of vintage glasses"
+  },
+  {
+    "name": "Razor",
+    "id": 968,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 30,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A razor"
+  },
+  {
+    "name": "Red Spray Can",
+    "id": 969,
+    "variants": 1,
+    "sizes": [
+      5,
+      12
+    ],
+    "row": 30,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A red spray can"
+  },
+  {
+    "name": "Fishing Pole",
+    "id": 970,
+    "variants": 1,
+    "sizes": [
+      15,
+      16
+    ],
+    "row": 30,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A professional fishing pole"
+  },
+  {
+    "name": "Champagne Bottle",
+    "id": 971,
+    "variants": 1,
+    "sizes": [
+      7,
+      16
+    ],
+    "row": 30,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A Champagne Bottle"
+  },
+  {
+    "name": "Christmas Star",
+    "id": 973,
+    "variants": 2,
+    "sizes": [
+      11,
+      12,
+      11,
+      12
+    ],
+    "row": 30,
+    "col": 13,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Roof Tile",
+    "id": 977,
+    "variants": 1,
+    "sizes": [
+      9,
+      13
+    ],
+    "row": 30,
+    "col": 17,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Cottage Bricks",
+    "id": 978,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 30,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Slime Ribcage",
+    "id": 981,
+    "variants": 1,
+    "sizes": [
+      15,
+      9
+    ],
+    "row": 30,
+    "col": 21,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bone Dust",
+    "id": 982,
+    "variants": 1,
+    "sizes": [
+      12,
+      7
+    ],
+    "row": 30,
+    "col": 22,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Roof Tiles",
+    "id": 983,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 30,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Skin",
+    "id": 984,
+    "variants": 1,
+    "sizes": [
+      9,
+      10
+    ],
+    "row": 30,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Marshmallow",
+    "id": 985,
+    "variants": 1,
+    "sizes": [
+      14,
+      6
+    ],
+    "row": 30,
+    "col": 25,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "consumable",
+    "desc": ""
+  },
+  {
+    "name": "Gravestone",
+    "id": 986,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 30,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Complete Skeleton Statue",
+    "id": 988,
+    "variants": 1,
+    "sizes": [
+      11,
+      15
+    ],
+    "row": 30,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "placeable",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Statue Head",
+    "id": 989,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 30,
+    "col": 29,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Statue Body",
+    "id": 990,
+    "variants": 1,
+    "sizes": [
+      14,
+      10
+    ],
+    "row": 30,
+    "col": 30,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Zombie Statue Base",
+    "id": 991,
+    "variants": 1,
+    "sizes": [
+      15,
+      9
+    ],
+    "row": 30,
+    "col": 31,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Bear Skeleton",
+    "id": 995,
+    "variants": 1,
+    "sizes": [
+      6,
+      10
+    ],
+    "row": 31,
+    "col": 3,
+    "value": 0,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Corn",
+    "id": 999,
+    "variants": 1,
+    "sizes": [
+      9,
+      14
+    ],
+    "row": 31,
+    "col": 7,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A yellow corn"
+  },
+  {
+    "name": "Red Ribbon",
+    "id": 1000,
+    "variants": 1,
+    "sizes": [
+      11,
+      9
+    ],
+    "row": 31,
+    "col": 8,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A red ribbon"
+  },
+  {
+    "name": "Giant Hammer",
+    "id": 1001,
+    "variants": 1,
+    "sizes": [
+      12,
+      12
+    ],
+    "row": 31,
+    "col": 9,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A giant unusable hammer"
+  },
+  {
+    "name": "Voodoo Doll",
+    "id": 1002,
+    "variants": 1,
+    "sizes": [
+      10,
+      11
+    ],
+    "row": 31,
+    "col": 10,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A male voodoo doll"
+  },
+  {
+    "name": "Meat Grinder",
+    "id": 1003,
+    "variants": 1,
+    "sizes": [
+      10,
+      14
+    ],
+    "row": 31,
+    "col": 11,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": "A powerful meatgrinder"
+  },
+  {
+    "name": "Christmas Candle",
+    "id": 1006,
+    "variants": 1,
+    "sizes": [
+      8,
+      15
+    ],
+    "row": 31,
+    "col": 14,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Half Cottage Bricks",
+    "id": 1010,
+    "variants": 1,
+    "sizes": [
+      12,
+      6
+    ],
+    "row": 31,
+    "col": 18,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Rib Knife",
+    "id": 1011,
+    "variants": 1,
+    "sizes": [
+      11,
+      12
+    ],
+    "row": 31,
+    "col": 19,
+    "value": 10,
+    "uses": 128,
+    "range": 3,
+    "power": 2.4,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "weapon",
+    "desc": ""
+  },
+  {
+    "name": "Maya Mask",
+    "id": 1015,
+    "variants": 1,
+    "sizes": [
+      10,
+      16
+    ],
+    "row": 31,
+    "col": 23,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Half Roof Tiles",
+    "id": 1016,
+    "variants": 1,
+    "sizes": [
+      12,
+      8
+    ],
+    "row": 31,
+    "col": 24,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "miniblock",
+    "desc": ""
+  },
+  {
+    "name": "Mummy Cloth",
+    "id": 1018,
+    "variants": 1,
+    "sizes": [
+      13,
+      5
+    ],
+    "row": 31,
+    "col": 26,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Mummy Bandage",
+    "id": 1019,
+    "variants": 1,
+    "sizes": [
+      14,
+      9
+    ],
+    "row": 31,
+    "col": 27,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Mummy Head",
+    "id": 1020,
+    "variants": 1,
+    "sizes": [
+      11,
+      11
+    ],
+    "row": 31,
+    "col": 28,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Skeleton Statue Head",
+    "id": 1021,
+    "variants": 1,
+    "sizes": [
+      10,
+      12
+    ],
+    "row": 31,
+    "col": 29,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Skeleton Statue Body",
+    "id": 1022,
+    "variants": 1,
+    "sizes": [
+      15,
+      10
+    ],
+    "row": 31,
+    "col": 30,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  },
+  {
+    "name": "Skeleton Statue Base",
+    "id": 1023,
+    "variants": 1,
+    "sizes": [
+      15,
+      10
+    ],
+    "row": 31,
+    "col": 31,
+    "value": 10,
+    "uses": 0,
+    "range": 0,
+    "power": 0.0,
+    "scale": 1.0,
+    "stackable": true,
+    "kind": "loot",
+    "desc": ""
+  }
+]
